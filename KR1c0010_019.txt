@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩集傳
-#+DATE: 2015-09-23 09:36:30
-#+PROPERTY: JUAN 19
+#+DATE: 2015-08-24 22:04:27.400899
+#+PROPERTY: ID KR1c0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十九
 <pb:KR1c0010_WYG_019-1a>¶
 欽定四庫全書¶
 　詩集傳卷十九　　　　　　宋　蘇轍　撰¶
@@ -452,4 +454,3 @@
 　¶
 　¶
 　詩集傳卷十九¶
-

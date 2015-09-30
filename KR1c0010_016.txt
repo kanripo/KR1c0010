@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩集傳
-#+DATE: 2015-09-23 09:36:30
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 22:04:27.334532
+#+PROPERTY: ID KR1c0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十六
 <pb:KR1c0010_WYG_016-1a>¶
 欽定四庫全書¶
 　詩集傳卷十六　　　　　　宋　蘇轍　撰¶
@@ -416,4 +418,3 @@
 　　　板八章章八句¶
 　¶
 　詩集傳卷十六¶
-
